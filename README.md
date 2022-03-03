@@ -1,8 +1,9 @@
-- 👋 Hi, I’m <h4> @Durga shnakar pandey</h4>
-- 👀 I’m interested in ..<h4>web development</h4>
-- 🌱 I’m currently learning ...<h4>full stack web development</h4>
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...<h4>dspandey051@gmail.com<h4>
+![durga45](https://pbs.twimg.com/profile_images/1268081870694014981/eKou6taW_400x400.jpg)
+- **👋 Hi, I’m** <h4>Durga shnakar pandey</h4>
+- **👀 I’m interested in** ..<h3>web development</h3>
+- **🌱 I’m currently learning** ...<h3>full stack web development</h3>
+- **💞️ I’m looking to collaborate on**
+- **📫 How to reach me** ...<bold>dspandey051@gmail.com</bold>
  
 
 <!---
