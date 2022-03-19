@@ -1,4 +1,4 @@
-![durga45](https://pbs.twimg.com/profile_images/1268081870694014981/eKou6taW_400x400.jpg)
+
 <h1 align="center">Hi 👋, I'm Durga shankar pandey</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
