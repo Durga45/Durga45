@@ -76,12 +76,4 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Durga45&show_icons=true&locale=en&theme=default" alt="durga45 stats" height="165" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Durga45&show_icons=true&locale=en&layout=compact" alt="durga45 top langs" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Durga45&theme=default" alt="durga45 streak" />
-</p>
